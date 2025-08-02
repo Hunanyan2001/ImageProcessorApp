@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "f5dODgcUKoUZL+C/dfAvZ1xRViwmTF92f81b4WBhXJZb3c6BmaJwS4rpVzexsnS1IjWAo59YApfGUBZTeU7+QA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\arm-event\\arm-event-back\\ImageProcessorApp\\ImageProcessorApp\\ImageProcessorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\sixlabors.imagesharp\\3.0.0\\sixlabors.imagesharp.3.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore\\9.0.3\\swashbuckle.aspnetcore.9.0.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.0.0\\swashbuckle.aspnetcore.swagger.7.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.0.0\\swashbuckle.aspnetcore.swaggergen.7.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.0.0\\swashbuckle.aspnetcore.swaggerui.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
